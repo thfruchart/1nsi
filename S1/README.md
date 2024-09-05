@@ -1,7 +1,8 @@
 # Représentation des nombres
 
 ## COURS
-* [Nombres entiers](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S1/COURS_ENTIERS_Binaire_Hexa.ipynb)
+* [Nombres entiers naturels](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S1/COURS_ENTIERS_Binaire_Hexa.ipynb)  
+* [Nombres entiers relatifs](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S1/COURS_ENTIERS_RELATIFS.ipynb)  
 ## QCM pour s'entraîner
 
 * [Nombres entiers en BINAIRE](https://genumsi.inria.fr/qcm.php?h=3ede5ddf7e6bc621c76aa74702e2d565)
