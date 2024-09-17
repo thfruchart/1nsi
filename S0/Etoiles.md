@@ -3,6 +3,11 @@ Ecrire un programme qui :
 * demande à l'utilisateur de saisir un nombre entier
 * affiche ce nombre entier d' "étoiles" comme dans les exemples suivants
   * programmer d'abord l'étape 1, puis l'étape 2, etc...
+  * les instructions autorisées pour le programme sont les suivantes
+    * affectation de variables
+    * opérations de base sur le type `int` et `str` 
+    * commande `print`
+    * boucle `while`
 
 ### exemple avec 3
 ```python
