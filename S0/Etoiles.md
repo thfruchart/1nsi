@@ -5,7 +5,7 @@ Ecrire un programme qui :
   * programmer d'abord l'étape 1, puis l'étape 2, etc...
 
 ### exemple avec 3
-'''python
+```python
 Entrer un entier : 3
 étape1
 *
@@ -34,10 +34,10 @@ Entrer un entier : 3
 **
 **
 *
-'''
+```
 
 ### exemple avec 4
-'''python
+```python
 Entrer un entier : 4
 étape1
 *
@@ -75,4 +75,4 @@ Entrer un entier : 4
 **
 **
 *
-'''
+```
