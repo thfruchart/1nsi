@@ -1,4 +1,6 @@
 # Programmation Python
+### TP
+* [Etoiles](Etoiles.md)
 ### Environnement de travail
 * EduPython
 * [Basthon(console)](https://console.basthon.fr/) 
