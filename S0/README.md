@@ -1,6 +1,6 @@
 # Programmation Python
 ### TP
-* [Etoiles](Etoiles.md)
+* [Etoiles](Etoiles.md) => [corrigé](etoiles.py)
 ### Environnement de travail
 * EduPython
 * [Basthon(console)](https://console.basthon.fr/) 
