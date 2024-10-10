@@ -12,4 +12,5 @@ Vous devez rendre un document au format numérique (texte, pdf, ou présentation
 
 ### Ensuite, présenter une analyse d'erreur : 
 * modifiez légèrement votre programme, et expliquez l'erreur obtenue
-* vous pouvez ainsi présenter une erreur que vous avez dû corriger lors de la réalisation de votre programme. 
+   * vous pouvez ainsi présenter une erreur que vous avez dû corriger lors de la réalisation de votre programme.
+   * ce peut être une erreur d'indentation, d'initialisation, d'ordre dans les instructions, ou autre... car une petite différence peut produire de grands effets.
