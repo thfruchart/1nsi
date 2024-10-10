@@ -2,6 +2,10 @@
 Vous devez expliquer votre code, mais il n'est pas utile de faire un commentaire "ligne par ligne".
 Vous devez rendre un document au format numérique (texte, pdf, ou présentation).
 
+### Préciser en introduction
+* la composition de votre groupe
+* le code que vous avez produit
+
 ### Présenter en premier : 
 * les variables que vous avez créé
    *  quel type ? quelle valeur initiale ?
