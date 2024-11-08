@@ -5,6 +5,9 @@ pyxel.init(128, 128, title="Vaisseau")
 # position initiale du vaisseau
 vaisseau_x = 60
 vaisseau_y = 60
+# liste des tirs
+tirs_liste = []
+
 
 def vaisseau_deplacement():
     """déplacement avec les touches de directions"""
@@ -23,6 +26,13 @@ def vaisseau_deplacement():
         if (vaisseau_y > 0) :
             vaisseau_y  -= 1
 
+
+def nouveau_tir():
+    if pyxel.btn(pyxel.KEY_SPACE):
+        tir = [ vaisseau_x, vaisseau_y]
+        tirs_liste.append(tir)
+        print(tirs_liste)
+    
 
 # =========================================================
 # == UPDATE
