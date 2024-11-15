@@ -2,6 +2,7 @@
 * [Découverte des listes sur futurecoder](https://fr.futurecoder.io/course/#IntroducingLists)
 ## avec pyxel
 * [vaisseau.py](vaisseau.py)
+*  [vaisseau_ennemi.py](vaisseau_ennemi.py)
 ## PARCOURS : types construits
 * [COURS](Parcours_type_construit.ipynb)
 * [EXERCICE1](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/EXO1_Parcours_Tableau.ipynb)
