@@ -12,3 +12,5 @@
 * [Entraînement : `list`](https://genumsi.inria.fr/qcm.php?h=bb1228ec37442a326e9c5682b62fe8a6)
 * [Entraînement : `dict`](https://genumsi.inria.fr/qcm.php?h=cbb959459c8a953f46ea79e0c939647e)
 * [EVAL](https://genumsi.inria.fr/qcm.php?h=b7cc62c8d2d89fe2faa702243b36c48f)
+### Des exercices pour s'entraîner
+* [sur pratique.forge.apps.education.fr](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/)
