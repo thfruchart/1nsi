@@ -1,7 +1,8 @@
-# Projets
+# Projet
 ## Semis
   * [semis-console-init.py](semis-console-init.py)
   * [semi-graph-init.py](semi-graph-init.py)
+  * [documentation-pyxel.pdf](documentation-pyxel.pdf)
 - DEUX JOUEURS S'AFFRONTENT
   - JOUEUR 1 JOUE VERS LA DROITE
   - JOUEUR 2 JOUE VERS LA GAUCHE
