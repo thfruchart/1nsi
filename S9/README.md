@@ -11,3 +11,8 @@
 ### Tri par insertion
 * [Activité 6 p.148 : Tri par insertion](https://www.cahier-nsi.fr/tri_par_insertion/)
   * voir aussi [ce lien](https://interstices.info/les-algorithmes-de-tri/)
+* [COURS : complexité du tri par sélection](https://github.com/thfruchart/1nsi/blob/main/S9/COURS_Complex_TRI_insertion.ipynb)
+
+
+### QCM
+* [entraînement](https://genumsi.inria.fr/qcm.php?h=087eb74a9ee2ca0627241fbbeada2147)  => [réponses](https://genumsi.inria.fr/qcm-corrige.php?cle=MzAzOzQ5NzsxMjk2OzEyOTc7MTk4OzIwNDszMDc=)
