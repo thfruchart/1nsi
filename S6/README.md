@@ -8,8 +8,8 @@
 
 ### QCM
 * [Entraînement**1** : système de fichiers](https://genumsi.inria.fr/qcm.php?h=ebed389e65745e4c76361b3ebe92bab8)
-* [Entraînement**2** : OS+droits](https://genumsi.inria.fr/qcm.php?h=b51c4d31d4b7c4a4cb59bc3b4e6f6eef)
-* [Evaluation : arborescence de fichiers](https://genumsi.inria.fr/qcm.php?h=0120338b471a64c319074456333a3f7e)
+* [Entraînement**2** : droits Linux](https://genumsi.inria.fr/qcm.php?h=ebaefc9566eb2c1a65d7bdb9d822d29c)
+* [Evaluation : arborescence de fichiers+droits](https://genumsi.inria.fr/qcm.php?h=0120338b471a64c319074456333a3f7e)
 
 ## Architecture de Von Neumann
 * [Calculatrice en ligne avec accumulateur](https://www.calculatrice.com/math/en-ligne.html)
