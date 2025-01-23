@@ -1,16 +1,19 @@
 # S10 : Algorithmique avancée
 
-
-* [Machine de Turing](https://www.cahier-nsi.fr/Turing/)
-* **Algorithmes gloutons**
-  * [Problème du sac à dos](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/SacADos.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/SacADos_COMPLET.ipynb)
-  * [Problème du rendu monnaie](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/Rendu_Monnaie.ipynb)
-  
 * Recherche dans une liste : 
-  * [Activité](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/ACTIVITE_recherche_liste.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/ACTIVITE_recherche_liste_CORR.ipynb)
-  * [Exercices : dichotomie](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/EXERCICES_Dichotomie.ipynb)
-* [Algorithme des k plus proches voisins](KNN/)
+  * [Activité](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/ACTIVITE_recherche_liste.ipynb) => [](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/ACTIVITE_recherche_liste_CORR.ipynb)
+  * [Exercices : dichotomie](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/EXERCICES_Dichotomie.ipynb) => [](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/Dichotomie_CORR.ipynb)
+  * [**COURS**](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/COURS_Recherche_Dichotomique.ipynb)
+* **Algorithmes gloutons**
+  * [Problème du sac à dos](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/SacADos.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/SacADos_CORR.ipynb)
+  * [Problème du rendu monnaie](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/Rendu_Monnaie.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/RenduMonnaie_CORR.ipynb)
+  
+* [KNN](KNN)
 
 ### QCM
-* [entraînement](https://genumsi.inria.fr/qcm.php?h=51efee7a1c357a407ebe42eb6d3f5c40)
-* [eval](https://genumsi.inria.fr/qcm.php?h=de776b889a845ccd59c5aa1f75e034e6)
+* [Entraînement](https://genumsi.inria.fr/qcm.php?h=51efee7a1c357a407ebe42eb6d3f5c40)
+* [EVAL](https://genumsi.inria.fr/qcm.php?h=6bc68468f427b2b19d9dd0f257dee68a)
+
+Et aussi
+* [Machine de Turing](https://www.cahier-nsi.fr/Turing/)
+
