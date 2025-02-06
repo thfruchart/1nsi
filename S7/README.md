@@ -5,7 +5,7 @@
 ### QCM
 * [Entraînement](https://genumsi.inria.fr/qcm.php?h=42c51d98596a9e7cebd43bb55e731a60) => [](https://genumsi.inria.fr/qcm-corrige.php?cle=Njs3OzMwOzIyOTsyMzA7NDQyOzUwMjs1MDM7MTM0NzsxMzY3OzE2MDA7MTgwOQ==)
 ## TP
-* [Consignes](NSI_Reseaux_Filius.pdf)
+* [Consignes](TP-Filius/NSI_Reseaux_Filius.pdf)
 ## Commandes sous linux
 * [Emulateur Linux](https://bellard.org/jslinux/vm.html?url=https://bellard.org/jslinux/buildroot-x86.cfg)
 * tester les commandes suivantes : 
