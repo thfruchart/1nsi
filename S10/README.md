@@ -11,8 +11,8 @@
 * [KNN](KNN)
 
 ### QCM
-* [Entraînement](https://genumsi.inria.fr/qcm.php?h=51efee7a1c357a407ebe42eb6d3f5c40)
-* [EVAL](https://genumsi.inria.fr/qcm.php?h=6bc68468f427b2b19d9dd0f257dee68a)
+* [Entraînement (dichotomie)](https://genumsi.inria.fr/qcm.php?h=51efee7a1c357a407ebe42eb6d3f5c40)
+* [EVAL (dichotomie+rendu monnaie)](https://genumsi.inria.fr/qcm.php?h=6bc68468f427b2b19d9dd0f257dee68a)
 
 Et aussi
 * [Machine de Turing](https://www.cahier-nsi.fr/Turing/)
