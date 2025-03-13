@@ -16,3 +16,7 @@
 * [Sélection et Tri (notebook)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/Selection_Tri_Table.ipynb)
 
 * [TP : prénoms](https://notebook.basthon.fr/?aux=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/nat2021.csv&from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/prenoms.ipynb#)
+
+### QCM
+* cahier p.68
+* 
