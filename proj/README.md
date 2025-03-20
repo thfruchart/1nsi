@@ -11,3 +11,5 @@
   - S'IL RESTE DES GRAINS A SEMER AU DELA DU PLATEAU... IL A PERDU
   - S'IL SEME LE DERNIER GRAIN DANS UNE CASE VIDE...  IL A PERDU
   - SINON LA PARTIE CONTINUE ET C'EST L'AUTRE JOUEUR QUI JOUE
+## Réussite
+* [notebook-réussite](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/proj/JeuReussite.ipynb)
