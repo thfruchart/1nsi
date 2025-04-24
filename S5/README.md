@@ -1,7 +1,7 @@
 # Interaction Humain-Machine sur le WEB
 ## Activité 1 p. 72
 * Interaction Client-Serveur => cours §1 p. 80
-* [QCM d'entraînement](https://genumsi.inria.fr/qcm.php?h=3d9321b9087e31622c2d554e9e14c688) => [CORRECTION](https://genumsi.inria.fr/qcm-corrige.php?cle=MTU7MTYzOzE2Njs0MTM7NDgyOzY0Mjs2ODA7OTc2OzExNDY7MTE0NzsxMTg1OzE4MzU7MTgzNjsxODM4)
+* [QCM Client-serveur-HTTP(S)](https://genumsi.inria.fr/qcm.php?h=ad99cc4d14295d0fbf37a3cfaa8290a9)
 * pour aller plus loin : [cookies](https://cookie.cahier-nsi.fr/)
 
 
@@ -12,7 +12,8 @@
 * Act 5. p. 77 
   * [Page reçue par le client](https://www.cahier-nsi.fr/pendules/)
   * [Code exécuté sur le serveur](https://github.com/thfruchart/1nsi/blob/main/S5/pendules.php)
-* Cours §2 et 3 p.80-81 avec [QCM](https://genumsi.inria.fr/qcm.php?h=7d4f433226b1cb43787bb497e3908de2)
+* Cours §2 et 3 p.80-81
+  * [QCM cours§2-3](https://genumsi.inria.fr/qcm.php?h=7d4f433226b1cb43787bb497e3908de2)
 
 
 ## Activité 3 p.75 et 4 p.76
@@ -29,7 +30,7 @@
    *  [fichier `cible1.php`](https://github.com/thfruchart/1nsi/blob/main/S5/cible_1.php)
    *  [formulaire2](https://www.cahier-nsi.fr/formulaire2/)
 * Cours §7 p. 83
-* [QCM](https://genumsi.inria.fr/qcm.php?h=b35aaff47cfcf8b97a8e001219a010c0) => [réponses](https://genumsi.inria.fr/qcm-corrige.php?cle=MTI4OzE1OTsyNjA7MjYyOzI2NTsxMzQ2OzE2MDI7MTYwOA==)
+* [QCM GET ou POST](https://genumsi.inria.fr/qcm.php?h=f13b8c3e83f9ae7906f53a2460b8d2c7)
 * exercice 11 p.87
 
 ### Exercice 9 p.86
