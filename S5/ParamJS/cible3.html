@@ -1,0 +1,24 @@
+<html>
+<head>
+  <script>
+  let str = window.location.href;
+  let url = new URL(str);
+  let t1 = url.searchParams.get("valeur1");
+  console.log(t1);
+  let t2 = url.searchParams.get("valeur2");
+  console.log(t2);
+  
+  function prem() {
+    document.getElementById("premier").innerHTML = t1 ;
+  }
+  function sec() {
+    document.getElementById("second").innerHTML = t2 ;
+  }
+
+  </script>
+
+</head>
+<h1 id="premier" onclick="prem()">PREMIER</h1>
+
+<h2 id="second" onclick="sec()">SECOND</h2>
+</html>

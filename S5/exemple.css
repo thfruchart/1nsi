@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+  background-color:black
+}
+
+p {
+  font-family: verdana;
+  font-size: 18px;
+  color : red
+}
+
+#date {
+  font-family: verdana;
+  font-size: 18px;
+  color : blue
+}
