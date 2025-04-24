@@ -1,6 +1,7 @@
 # Interaction Humain-Machine sur le WEB
-## Activité 1 p. 72
-* Interaction Client-Serveur => cours §1 p. 80
+## Activités
+*  1 p. 72 : Interaction Client-Serveur => cours §1 p. 80
+*  6 p.78 => cours §8 p. 83
 * [QCM Client-serveur-HTTP(S)](https://genumsi.inria.fr/qcm.php?h=ad99cc4d14295d0fbf37a3cfaa8290a9)
 * pour aller plus loin : [cookies](https://cookie.cahier-nsi.fr/)
 
