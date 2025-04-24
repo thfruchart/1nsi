@@ -9,6 +9,7 @@ Depôt de NSI : première A
 * [S2 : booléens, encodages](S2)
 * [S3 : types construits](S3)
 * [S4 : données en tables](S4)
+* [S5 : IHM sur le Web](S5)
 * [S6 : système d'exploitation](S6)
 * [S7 : réseaux et IHM](S7)
 * [S9 : algorithmique](S9)
