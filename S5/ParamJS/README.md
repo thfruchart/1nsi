@@ -13,4 +13,4 @@ Modifier le formulaire et le fichier cible de telle sorte que :
 * puis cliquer sur le bouton
 * et obtenir une page dans laquelle :
   * un clic sur le titre "PREMIER" affiche la première valeur passée en paramètre
-  * un clic sur le titre "SECOND" affiche la première valeur passée en paramètre
+  * un clic sur le titre "SECOND" affiche la deuxième valeur passée en paramètre
