@@ -1,7 +1,7 @@
 # 1nsi
 Depôt de NSI : première A
 
-* [pratique : exercices de programmation](https://pratique.forge.apps.education.fr/balayage/3-creation_tableau/)
+* [pratique : un exercice bonus](https://pratique.forge.apps.education.fr/eval/20-balai/30-list_w/25-occurrences_du_mini/)
 
 ### Séquences (avec les n° du cahier)
 * [S0 : programmation avec Python](S0)
