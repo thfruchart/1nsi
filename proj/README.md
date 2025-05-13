@@ -13,3 +13,6 @@
   - SINON LA PARTIE CONTINUE ET C'EST L'AUTRE JOUEUR QUI JOUE
 ## Réussite
 * [notebook-réussite](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/proj/JeuRéussite.ipynb)
+## Snake
+- [Snake_Pyxel.pdf](Snake_Pyxel.pdf)
+- [snake.pyxres](snake.pyxres)
