@@ -1,4 +1,7 @@
 # Projet
+## Nuit du code
+* [regles-et-conseils-python](regles-et-conseils-python.pdf)
+* [documentation-pyxel](documentation-pyxel.pdf)
 ## Semis
   * [semis-console-init.py](semis-console-init.py)
   * [semi-graph-init.py](semi-graph-init.py)
