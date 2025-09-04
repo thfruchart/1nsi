@@ -14,4 +14,4 @@
 * [instruction conditionnelle](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S0/4Conditionnelle.ipynb)
 
 ### TP
-* [Etoiles](Etoiles.md) => [corrigé](etoiles.py)
+* [Etoiles](Etoiles.md) => [](etoiles.py)
