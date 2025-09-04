@@ -1,6 +1,5 @@
 # Programmation Python
-### TP
-* [Etoiles](Etoiles.md) => [corrigé](etoiles.py)
+
 ### Environnement de travail
 * EduPython
 * [Basthon(console)](https://console.basthon.fr/) 
@@ -13,3 +12,6 @@
 * [mode Programme](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S0/2ModeProgramme.ipynb)
 * [importation d'un module](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S0/3ImportationModule.ipynb)
 * [instruction conditionnelle](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S0/4Conditionnelle.ipynb)
+
+### TP
+* [Etoiles](Etoiles.md) => [corrigé](etoiles.py)
