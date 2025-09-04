@@ -14,7 +14,7 @@
 * [EVAL BINAIRE](https://genumsi.inria.fr/qcm.php?h=62930968543574e4edf03da7cfee5502) 
 * [EVAL HEXA](https://genumsi.inria.fr/qcm.php?h=ae3f996b536dcac070c4c72c41837739)
 * [EVAL cpt à deux](https://genumsi.inria.fr/qcm.php?h=315529972afb3fa23051ca4bd55135be)
-* [Nombres de type `float`]: # (https://genumsi.inria.fr/qcm.php?h=d7a4a3ab02bf21cbed1fe3436281f09c)
+* [EVAL flottant]: # (https://genumsi.inria.fr/qcm.php?h=d7a4a3ab02bf21cbed1fe3436281f09c)
 
 ## Représentation des entiers relatifs en C++
 
