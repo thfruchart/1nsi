@@ -14,5 +14,11 @@
 * [instruction conditionnelle](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S0/4Conditionnelle.ipynb)
   * [qcm2 conditionnelle et fonction](https://genumsi.inria.fr/qcm.php?h=c736b09abc521b31a192a0bcb0b79656) => [eval](https://genumsi.inria.fr/qcm.php?h=063c8c6e72448a20177bbcfe5188a883) 
 
+
+### Pratique
+* [Fonctions](https://pratique.forge.apps.education.fr/starter/50-fonctions/)
+* [Photocopies](https://pratique.forge.apps.education.fr/starter/10-if/05/)
+* [Billets de bus](https://pratique.forge.apps.education.fr/starter/10-if/15/)
+
 ### TP
 * [Etoiles](Etoiles.md) => [](etoiles.py)
