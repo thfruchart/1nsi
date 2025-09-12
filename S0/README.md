@@ -16,9 +16,9 @@
 
 
 ### Pratique
-* [Fonctions](https://pratique.forge.apps.education.fr/starter/50-fonctions/)
-* [Photocopies](https://pratique.forge.apps.education.fr/starter/10-if/05/)
-* [Billets de bus](https://pratique.forge.apps.education.fr/starter/10-if/15/)
+* [Un exemple dans une fonction](https://pratique.forge.apps.education.fr/starter/10-if/04/)
+* [EXO : Photocopies](https://pratique.forge.apps.education.fr/starter/10-if/05/)
+* [EXO : Billets de bus](https://pratique.forge.apps.education.fr/starter/10-if/15/)
 
 ### TP
 * [Etoiles](Etoiles.md) => [](etoiles.py)
