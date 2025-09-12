@@ -12,6 +12,7 @@
 * [mode Programme](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S0/2ModeProgramme.ipynb)
 * [importation d'un module](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S0/3ImportationModule.ipynb)
 * [instruction conditionnelle](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S0/4Conditionnelle.ipynb)
+  * [qcm2 conditionnelle et fonction](https://genumsi.inria.fr/qcm.php?h=c736b09abc521b31a192a0bcb0b79656) [](https://genumsi.inria.fr/qcm.php?h=063c8c6e72448a20177bbcfe5188a883) 
 
 ### TP
 * [Etoiles](Etoiles.md) => [](etoiles.py)
