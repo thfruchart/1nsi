@@ -22,3 +22,8 @@
 
 ### TP
 * [Etoiles](Etoiles.md) => [](etoiles.py)
+
+### QCM
+- [EXO boucle while](https://genumsi.inria.fr/qcm.php?h=9fbd4811aa4c10ca67f6685932770585)
+- [EVAL boucle while](https://genumsi.inria.fr/qcm.php?h=d5d4f5f45dcc7275dcd474bdc686d104)
+
