@@ -22,6 +22,7 @@
 
 ### TP
 * [Etoiles](Etoiles.md) => [](etoiles.py)
+  * voir aussi [ASCII Art](https://pratique.forge.apps.education.fr/balayage/2-chaine/73-formes/)
 
 ### QCM
 - [EXO boucle while](https://genumsi.inria.fr/qcm.php?h=9fbd4811aa4c10ca67f6685932770585)
