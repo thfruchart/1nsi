@@ -8,7 +8,7 @@
 * si on exécute le fichier, il doit afficher les résultats de quelques tests (comme une sorte de "démo" de votre fonction)
   * programmer par vous-mêmes les appels de fonctions, en choisissant des valeurs "intéressantes" pour les paramètres
   * prévoir des affichages compréhensibles par un "non spécialiste"
-## Document d'explication du code
+## Document d'explication du code (noté sur 8 points)
 * travail individuel
 * remis sous forme numérique (dans le dossier du groupe, en précisant bien votre nom)
 * préciser le **type** des **variables** utilisées, et leur **rôle**
