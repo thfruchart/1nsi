@@ -11,3 +11,4 @@
 ### Des exercices pour s'entraîner
 * [sur pratique.forge.apps.education.fr](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/)
   * [dictionnaires](https://pratique.forge.apps.education.fr/balayage/4-dico/32-dict_extremes/)
+  * [CORRECTION : dictionnaire des valeurs extrêmes](32-dict_extremes-exo.py)
