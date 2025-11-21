@@ -7,8 +7,8 @@
 
 
 ### QCM
-* [Entraînement**1** : système de fichiers](https://genumsi.inria.fr/qcm.php?h=ebed389e65745e4c76361b3ebe92bab8) [](S6 Training Linux)
-* [Entraînement**2** : droits Linux](https://genumsi.inria.fr/qcm.php?h=ebaefc9566eb2c1a65d7bdb9d822d29c) [](S6 Training Droits+Linux)
+* [Entraînement**1** : système de fichiers](https://genumsi.inria.fr/qcm.php?h=ebed389e65745e4c76361b3ebe92bab8) [](S6_Training_Linux)
+* [Entraînement**2** : droits Linux](https://genumsi.inria.fr/qcm.php?h=ebaefc9566eb2c1a65d7bdb9d822d29c) [](S6_Training_Droits+Linux)
 * [Evaluation : arborescence de fichiers+droits (S6 EVAL)](https://genumsi.inria.fr/qcm.php?h=d0500a3cb024d3f0d5297a2ea55c2556)
 
 ## Architecture de Von Neumann
