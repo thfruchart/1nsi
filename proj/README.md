@@ -1,5 +1,6 @@
 # Projets
 1. [conversion binaire de nombre flottants](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/proj/MiniProjet1.ipynb)
+2. [Craquer César](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/proj/CESAR.ipynb)
 
 
 ## Code à rendre (noté sur 12 points)
