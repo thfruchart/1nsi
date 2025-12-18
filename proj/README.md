@@ -12,7 +12,10 @@
 ## Document d'explication du code (noté sur 8 points)
 * travail individuel
 * remis sous forme numérique (dans le dossier du groupe, en précisant bien votre nom)
-* préciser le **type** des **variables** utilisées, et leur **rôle**
+* expliquer comment vous avez découpé les diverses tâches à réaliser entre **plusieurs fonctions**.
+   * préciser le type et le rôle des **paramètres** de la fonction,  
+   * préciser le **type** des **variables** utilisées, et leur **rôle**
+   * expliquer ce que **renvoie** la fonction
 * expliquer les structures d'exécution :
    *  `if` : détailler l'expression booléenne
    *  `while` :  expliquer à quelle condition la boucle s'arrête
