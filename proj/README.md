@@ -20,5 +20,6 @@
    *  `if` : détailler l'expression booléenne
    *  `while` :  expliquer à quelle condition la boucle s'arrête
 *  présenter les tests réalisés :
+   * pour quelle(s) fonction(s)  
    * avec quelles valeurs ?
    * pour quels résultats  ?
