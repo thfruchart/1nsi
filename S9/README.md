@@ -6,7 +6,7 @@
 * [Exercice : tri par sélection](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S9/EXO_tri_selection.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S9/EXO_tri_selection_CORRECTION.ipynb)
 
 ### Boucles imbriquées
-* [Activité : boucles imbriquées](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/refs/heads/main/S9/Activit%C3%A9_Boucles_imbriqu%C3%A9es.ipynb) => [](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S9/Boucles_imbriqu%C3%A9es_CORRECTION.ipynb)
+* [Activité : boucles imbriquées](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/refs/heads/main/S9/Activit%C3%A9_Boucles_imbriqu%C3%A9es.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S9/Boucles_imbriqu%C3%A9es_CORRECTION.ipynb)
 
 ### Tri par insertion
 * [Activité 6 p.148 : Tri par insertion](https://www.cahier-nsi.fr/tri_par_insertion/)
