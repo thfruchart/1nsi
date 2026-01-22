@@ -8,7 +8,7 @@
 * [Emulateur Linux](https://bellard.org/jslinux/vm.html?url=https://bellard.org/jslinux/buildroot-x86.cfg)
 * tester les commandes suivantes : 
   * `ifconfig`  ou `ip addr show` ou encore  `ip a`
-  * `nslookup` (par exemple vers `stpaulbb.org`)
+  * `nslookup` (par exemple vers `stpaulbb.org` ou  vers `stpbb.org`)
   * `ping` (choisir une adresse ip pour le test)
   * `traceroute` (choisir une adresse ip pour le test)
 ### QCM
