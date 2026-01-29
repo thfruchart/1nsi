@@ -12,7 +12,7 @@
   * `ping` (choisir une adresse ip pour le test)
   * `traceroute` (choisir une adresse ip pour le test)
 ### QCM
-* [Entraînement1](https://genumsi.inria.fr/qcm.php?h=42c51d98596a9e7cebd43bb55e731a60) => [](https://genumsi.inria.fr/qcm-corrige.php?cle=Njs3OzMwOzIyOTsyMzA7NDQyOzUwMjs1MDM7MTM0NzsxMzY3OzE2MDA7MTgwOQ==)
+* [Entraînement1](https://genumsi.inria.fr/qcm.php?h=42c51d98596a9e7cebd43bb55e731a60) => [CORRECTION](https://genumsi.inria.fr/qcm-corrige.php?cle=Njs3OzMwOzIyOTsyMzA7NDQyOzUwMjs1MDM7MTM0NzsxMzY3OzE2MDA7MTgwOQ==)
 
 ## IHM : capteurs et actionneurs
 * [Activité 4 p. 116](https://www.cahier-nsi.fr/IHM/)
