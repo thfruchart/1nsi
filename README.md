@@ -1,5 +1,6 @@
 # 1nsi
 Depôt de NSI : première A
+
 [Découverte de pyxel](proj/pyxel)
 ### Séquences (avec les n° du cahier)
 * [S0 : programmation avec Python](S0)
