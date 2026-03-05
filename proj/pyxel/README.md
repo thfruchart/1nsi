@@ -10,3 +10,5 @@
 - [6-taquin-graph-fin_de_partie_A_COMPLETER.py](6-taquin-graph-fin_de_partie_A_COMPLETER.py)
 - [7-taquin-GESTION_SOURIS.py](7-taquin-GESTION_SOURIS.py)
 - [8-taquin-fin_de_partie_avec_SOURIS_A_COMPLETER.py](8-taquin-fin_de_partie_avec_SOURIS_A_COMPLETER.py)
+### solution
+- [8-taquin-fin_de_partie_avec_SOURIS_CORR.py](8-taquin-fin_de_partie_avec_SOURIS_CORR.py)
