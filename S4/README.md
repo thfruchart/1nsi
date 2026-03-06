@@ -13,7 +13,7 @@
 * [Ex 8 p. 67](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/Exo8p.67.ipynb)
 * [Ex 9 p. 67](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/Exo9p.67.ipynb) => [correction](EXO9p.67_CORRECTION.ipynb)
 ### Sélection et tri
-* Rappel : listes en compréhension [ ](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/ListComprehension.ipynb)
+* Rappel : listes en compréhension[.](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/ListComprehension.ipynb)
 
 * [Sélection et Tri (notebook)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/Selection_Tri_Table.ipynb)
 
