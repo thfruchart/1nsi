@@ -21,5 +21,5 @@
 
 ### QCM
 * cahier p.68
-* [entraînement](https://genumsi.inria.fr/qcm.php?h=33314488b10ad5420aad25f99119f66a)
-* [S4 EVAL](https://genumsi.inria.fr/qcm.php?h=12d38f819b19f12e75ebd1dd1a90d673)
+* [S4 révision](https://genumsi.inria.fr/qcm.php?h=61367d5739b28a00e599bb0ee97bf07e)
+* [S4 EVAL](https://genumsi.inria.fr/qcm.php?h=c7d24405ce2dae3f99dd2cfd7ce7e1d5)
