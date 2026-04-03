@@ -1,6 +1,6 @@
 # Mini projet avec pyxel
 
-A partir de la 1ère version jouable (fournie, ou réalisée par vous)
+A partir de la 1ère version jouable réalisée par vous, ou [proj06_JOUABLE_1.py](proj06_JOUABLE_1.py)
 - ajouter des fonctionnalités
   - score
   - gestion des collisions
