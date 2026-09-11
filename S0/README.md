@@ -15,6 +15,8 @@
 
 
 ### Pratique
+* [Notion de fonction](https://pratique.forge.apps.education.fr/starter/01-fonctions/)
+#### instruction conditionnelle `if ... : else ... :`
 * [Un exemple dans une fonction](https://pratique.forge.apps.education.fr/starter/10-if/04/)
 * [EXO : Photocopies](https://pratique.forge.apps.education.fr/starter/10-if/05/)
 * [EXO : Billets de bus](https://pratique.forge.apps.education.fr/starter/10-if/15/)
