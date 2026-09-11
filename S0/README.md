@@ -8,10 +8,9 @@
 
 ### prise en main :
 * [mode Console](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/src1nsi/main/S0/1ModeConsole.ipynb)
-  * [qcm1](https://genumsi.inria.fr/qcm.php?h=3f244e65686cc52b39b500c18b46e613)
 * [mode Programme](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/src1nsi/main/S0/2ModeProgramme.ipynb)
+  * [EXO qcm1](https://genumsi.inria.fr/qcm.php?h=3f244e65686cc52b39b500c18b46e613)
 * [importation d'un module](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/src1nsi/main/S0/3ImportationModule.ipynb)
-
 
 
 
