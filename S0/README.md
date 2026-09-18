@@ -20,7 +20,8 @@
 * [Un exemple dans une fonction](https://pratique.forge.apps.education.fr/starter/10-if/04/)
 * [EXO : Photocopies](https://pratique.forge.apps.education.fr/starter/10-if/05/)
 * [EXO : Billets de bus](https://pratique.forge.apps.education.fr/starter/10-if/15/)
-
+#### import d'un module
+* [calculer une racine carrée](https://pratique.forge.apps.education.fr/starter/05-calculs/10/)
 ### TP
 * [Etoiles](Etoiles.md) => [](etoiles.py)
   * voir aussi [ASCII Art](https://pratique.forge.apps.education.fr/balayage/2-chaine/73-formes/)
