@@ -22,9 +22,6 @@
 * [EXO : Billets de bus](https://pratique.forge.apps.education.fr/starter/10-if/15/)
 #### import d'un module
 * [calculer une racine carrée](https://pratique.forge.apps.education.fr/starter/05-calculs/10/)
-### TP
-* [Etoiles](Etoiles.md) => [](etoiles.py)
-  * voir aussi [ASCII Art](https://pratique.forge.apps.education.fr/balayage/2-chaine/73-formes/)
 
 ### QCM
 - [EXO conditionnelle et fonction](https://genumsi.inria.fr/qcm.php?h=c736b09abc521b31a192a0bcb0b79656)
