@@ -10,7 +10,8 @@
 
 ### Des exercices pour s'entraîner sur pratique.forge.apps.education.fr
 * [listes](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/)
-  * [Soleil couchant](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/15-soleil_couchant/)  
+  * [Soleil couchant](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/15-soleil_couchant/)
+  * [Premier minimum local](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/16-premier_minimum/)
 * [dictionnaires](https://pratique.forge.apps.education.fr/balayage/4-dico/32-dict_extremes/)
   * [CORRECTION : dictionnaire des valeurs extrêmes](32-dict_extremes-exo.py)
   * [CORRECTION : dictionnaire d'occurrences](45-dico_occurrences-exo.py)
