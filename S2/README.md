@@ -1,5 +1,5 @@
 # Représentation des caractères, et calcul booléen
-* [traducteur binaire](https://formatter.org/fr/text-to-binary)
+* [traducteur binaire](https://converttext.app/fr/tools/binary-translator/)
 ### QCM 
 * cahier p. 36
 * [Révision S2](https://genumsi.inria.fr/qcm.php?h=a2067be3b11f5739ea8c55c2686d37ed)
