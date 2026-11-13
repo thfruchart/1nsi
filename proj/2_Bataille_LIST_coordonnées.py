@@ -13,10 +13,11 @@ vies = 3
 # cible [xc, yc, rc, vitesse, dr]
 cible = [120, 0,  8,       1, -1]
 
-# tir: x_tir, y_tir, v_tir 
-tir = [-10,    -10,     3] # initialement hors de l'écran
+# tir: x_tir, y_tir 
+tir = [-10,    -10] # initialement hors de l'écran
 
-
+# vitesse des tirs
+v_tir = 3
 
 # tir adverse
 x_adv, y_adv = 300,300 # initialement hors de l'écran
@@ -43,19 +44,28 @@ def update():
             couleur_fond = 1- couleur_fond
         return
     
-    if pyxel.btnr(pyxel.KEY_C) :
-        clip = not clip 
-    cible[1] += cible[3]
-    cible[2] += cible[4]
+
+    # évolution de la cible
+    cible[1] += cible[3] # mouvement vertical
+    cible[2] += cible[4] # changement du rayon
     if cible[2]<4 or cible[2]>12: 
-        cible[4] = -cible[4]
+        cible[4] = -cible[4]  # alterner grossir et réduire le rayon de la cible
+    
+    
     # déplacement des tirs
-    tir[1] -= tir[2]
-    y_adv += tir[2] + cible[3]
+    tir[1] -= v_tir
+    
+    # tir adverse 
+    y_adv += v_tir + cible[3]
+    
+    #déplacement de la souris
     xm,ym = pyxel.mouse_x, pyxel.mouse_y
+    
+    # NOUVEAU TIR DU JOUEUR
     if pyxel.btn(pyxel.MOUSE_BUTTON_LEFT) :
         tir[0], tir[1] = xm,ym
-    # TIR touche vaisseau
+
+    # TIR touche vaisseau ?
     xt,yt = tir[0], tir[1]-5
     if (xt-cible[0])**2+(yt-cible[1])**2<cible[2]**2:
         cible[1] = -cible[2]

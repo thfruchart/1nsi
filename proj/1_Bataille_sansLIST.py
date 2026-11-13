@@ -20,6 +20,8 @@ dr = -1 # variation du rayon de la cible
 
 # tir
 x_tir, y_tir = -10,-10 # initialement hors de l'écran
+
+# vitesse des tirs
 v_tir = 3
 
 # tir adverse
@@ -47,16 +49,22 @@ def update():
             couleur_fond = 1- couleur_fond
         return
     
-    if pyxel.btnr(pyxel.KEY_C) :
-        clip = not clip 
+
     yc += vitesse
     rc += dr
     if rc<4 or rc>12: 
         dr = -dr
+    
     # déplacement des tirs
     y_tir -= v_tir
+    
+    # tirs adverses
     y_adv += v_tir + vitesse
+    
+    # déplacement de la souris
     xm,ym = pyxel.mouse_x, pyxel.mouse_y
+    
+    # NOUVEAU TIR DU JOUEUR
     if pyxel.btn(pyxel.MOUSE_BUTTON_LEFT) :
         x_tir, y_tir = xm,ym
     # TIR touche vaisseau
