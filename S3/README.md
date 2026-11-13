@@ -6,7 +6,9 @@
   * [maximum d'une liste](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/06-maxi/)
   * [moyenne d'une liste](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/10-moyenne/)
  
-
+## Type muables dans une fonction
+- [une fonction peut modifier une valeur d'une liste](https://pythontutor.com/visualize.html#code=def%20f%28x%29%20%3A%20%0A%20%20%20%20L%5B0%5D%20%3D%20x%0A%20%20%20%20return%20L%0A%0AL%20%3D%20%5B10,20,30%5D%0A%0Aprint%28%20f%28100%29%20%29%0Aprint%28%20L%20%29&curInstr=8&mode=display&origin=opt-frontend.js&py=311)
+- [une fonction ne peut pas RE-définir une liste](https://pythontutor.com/visualize.html#code=def%20f%28x%29%20%3A%20%0A%20%20%20%20L%20%3D%20%5Bx,%20x%2B1,%20x%2B2%5D%0A%20%20%20%20return%20L%0A%0AL%20%3D%20%5B10,20,30%5D%0A%0Aprint%28%20f%28100%29%20%29%0Aprint%28L%29&curInstr=8&mode=display&origin=opt-frontend.js&py=311)
 
 ### Des exercices pour s'entraîner sur pratique.forge.apps.education.fr
 * [listes](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/)
