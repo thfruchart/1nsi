@@ -2,7 +2,7 @@
 
 ## PARCOURS : types construits
 * Parcours sans indice
-  * [chaîne de caractère](https://pratique.forge.apps.education.fr/balayage/2-chaine/46-exclamations/) => [CORR](https://raw.githubusercontent.com/thfruchart/src1nsi/refs/heads/main/S3/46-exclamations-exo.py)
+  * [chaîne de caractère](https://pratique.forge.apps.education.fr/balayage/2-chaine/09-cpt_occ/) => [CORR](https://raw.githubusercontent.com/thfruchart/src1nsi/refs/heads/main/S3/09-cpt_occ-exo.py)
   * [maximum d'une liste](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/06-maxi/) => [CORR](https://raw.githubusercontent.com/thfruchart/src1nsi/refs/heads/main/S3/06-maxi-exo.py)
   * [moyenne d'une liste](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/10-moyenne/) => [CORR](https://raw.githubusercontent.com/thfruchart/src1nsi/refs/heads/main/S3/10-moyenne-exo.py)
  
