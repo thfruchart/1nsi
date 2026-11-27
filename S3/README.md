@@ -2,9 +2,9 @@
 
 ## PARCOURS : types construits
 * Parcours sans indice
-  * [chaîne de caractère](https://pratique.forge.apps.education.fr/balayage/2-chaine/46-exclamations/)
-  * [maximum d'une liste](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/06-maxi/)
-  * [moyenne d'une liste](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/10-moyenne/)
+  * [chaîne de caractère](https://pratique.forge.apps.education.fr/balayage/2-chaine/46-exclamations/) => [CORR](https://raw.githubusercontent.com/thfruchart/src1nsi/refs/heads/main/S3/46-exclamations-exo.py)
+  * [maximum d'une liste](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/06-maxi/) => [CORR](https://raw.githubusercontent.com/thfruchart/src1nsi/refs/heads/main/S3/06-maxi-exo.py)
+  * [moyenne d'une liste](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/10-moyenne/) => [CORR](https://raw.githubusercontent.com/thfruchart/src1nsi/refs/heads/main/S3/10-moyenne-exo.py)
  
 ## Type muables dans une fonction
 - [une fonction peut modifier une valeur d'une liste](https://pythontutor.com/visualize.html#code=def%20f%28x%29%20%3A%20%0A%20%20%20%20L%5B0%5D%20%3D%20x%0A%20%20%20%20return%20L%0A%0AL%20%3D%20%5B10,20,30%5D%0A%0Aprint%28%20f%28100%29%20%29%0Aprint%28%20L%20%29&curInstr=8&mode=display&origin=opt-frontend.js&py=311)
