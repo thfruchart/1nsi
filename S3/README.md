@@ -14,9 +14,9 @@
 * [listes](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/)
   * [Soleil couchant](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/15-soleil_couchant/) => [CORR](https://raw.githubusercontent.com/thfruchart/src1nsi/refs/heads/main/S3/15-soleil_couchant-exo.py)
   * [Premier minimum local](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/16-premier_minimum/) => [CORR](https://raw.githubusercontent.com/thfruchart/src1nsi/refs/heads/main/S3/16-premier_minimum-exo.py)
-* [dictionnaires](https://pratique.forge.apps.education.fr/balayage/4-dico/32-dict_extremes/)
-  * [dictionnaire des valeurs extrêmes]() => [CORR](https://raw.githubusercontent.com/thfruchart/src1nsi/refs/heads/main/S3/32-dict_extremes-exo.py)
-  * [dictionnaire d'occurrences]() => [CORR](https://raw.githubusercontent.com/thfruchart/src1nsi/refs/heads/main/S3/45-dico_occurrences-exo.py)
+* [dictionnaires](https://pratique.forge.apps.education.fr/balayage/4-dico/)
+  * [dictionnaire des valeurs extrêmes](https://pratique.forge.apps.education.fr/balayage/4-dico/32-dict_extremes/) => [CORR](https://raw.githubusercontent.com/thfruchart/src1nsi/refs/heads/main/S3/32-dict_extremes-exo.py)
+  * [dictionnaire d'occurrences](https://pratique.forge.apps.education.fr/balayage/4-dico/45-dico_occurrences/) => [CORR](https://raw.githubusercontent.com/thfruchart/src1nsi/refs/heads/main/S3/45-dico_occurrences-exo.py)
 
 ### QCM
 * [Entraînement : `list`](https://genumsi.inria.fr/qcm.php?h=bb1228ec37442a326e9c5682b62fe8a6)
